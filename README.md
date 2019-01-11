@@ -1,2 +1,2 @@
 # pylib
-python library
+python library & framework
